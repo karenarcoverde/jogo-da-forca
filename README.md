@@ -3,5 +3,5 @@ Trabalho da disciplina de Sistemas Digitais com objetivo de fazer um jogo da for
 
 
 GRUPO:
-Karen dos Anjos Arcoverde
+Karen dos Anjos Arcoverde,
 Gabriel de Lima Moura
