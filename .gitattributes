@@ -1,1 +1,2 @@
-*.* linguist-language=VHDL
+*.vhd linguist-language=VHDL
+*.tex linguist-language=TeX
